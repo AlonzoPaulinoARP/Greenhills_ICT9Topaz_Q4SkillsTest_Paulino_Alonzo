@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+form {
+    background-image: linear-gradient(to bottom, #9379b5, #7c7da9);
+    border-radius: 25px;
+    text-align: center;
+    margin-top: 100px;
+    height: auto;
+    width: 500px;
+    margin-left: 500px;
+    color: #000000
+}
+input {
+    text-align: center;
+}
