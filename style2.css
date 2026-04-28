@@ -12,3 +12,9 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwOkZKjuR8h07APiyo2iUSwE4G9Gnkt_PZA&s)
+    background-attachment: fixed
+    background-repeat: no-repeat
+    background-size: cover
+}
